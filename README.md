@@ -10,3 +10,6 @@ public class A {
   }
 }
 ```
+
+
+algorithm test
