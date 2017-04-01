@@ -7,7 +7,8 @@ public class Main {
 		int n = sc.nextInt();
 		int w = sc.nextInt();
 		
-		int[] D = new int[w+1];//1
+		int[] D = new int[w+1];
+// hello
 		
 		int Jp[] = new int[n];
 		int Jw[] = new int[n];
